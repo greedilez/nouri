@@ -1,0 +1,16 @@
+NOURI - DATA AND PRIVACY NOTES
+
+Local data
+Nouri stores the user profile, theme choice, onboarding state, tutorial state, meal plans, shopping items, pantry items, and interaction state locally on the device. This data is used to provide the app's core features and remains available offline.
+
+Firebase Analytics
+The app uses Firebase Analytics to collect app interaction and diagnostic events, including app readiness, onboarding completion, tutorial completion, theme changes, meal additions, shopping list generation, pantry additions, notification permission state, and FCM token readiness. The app does not send meal names, shopping item names, pantry item names, profile names, or free-form user text as Analytics event parameters.
+
+Firebase Cloud Messaging
+The app uses Firebase Cloud Messaging to obtain a device messaging token, subscribe to the nouri_updates topic, receive push notifications, and route notification taps. A local notification is used to display messages received while the app is in the foreground.
+
+Permissions
+Android notification permission is requested on supported Android versions. The app does not request camera, microphone, contacts, location, storage, or phone permissions.
+
+Account and cloud storage
+Nouri does not require an account and does not upload the user's meal plan, shopping list, pantry list, or profile to a custom cloud database.

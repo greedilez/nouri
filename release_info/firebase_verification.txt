@@ -1,0 +1,18 @@
+NOURI - FIREBASE VERIFICATION
+
+Firebase project: nouri-7ad63
+Android package: com.nouri.mealplanner
+Firebase Android app ID: 1:765056100251:android:c6072d1cc358c04a66233e
+
+Verified on Android emulator:
+- Firebase initialized with the configured Android application.
+- Firebase Analytics debug mode recognized the correct package, app ID, app version, and build.
+- Custom events fcm_token_ready and app_ready were recorded.
+- Analytics event upload returned HTTP 204.
+- Firebase Cloud Messaging produced a registration token.
+- The app subscribed to the nouri_updates topic.
+- Foreground notification handling is connected to the local notification service.
+- Android channel nouri_meal_updates exists with high importance.
+- The in-app test produced a visible notification titled "Your Nouri plan is ready".
+
+Remote campaign delivery from Firebase Console was not used for this local verification. Token registration, handler initialization, notification channel, foreground display, and notification interaction wiring were verified in the installed release app.

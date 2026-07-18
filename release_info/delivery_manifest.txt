@@ -1,0 +1,17 @@
+NOURI DELIVERY MANIFEST
+
+release/
+- Nouri-v1.0.0-release.aab: signed Google Play App Bundle
+- Nouri-v1.0.0-release.apk: signed installable Android package
+- creo/1.jpg through creo/8.jpg: store-ready app screenshots
+- creo/banner.png: 1024 x 500 feature graphic
+- creo/icon.png: 1024 x 1024 store icon
+- info.txt: English store listing copy
+- privacy_data_en.txt: data handling and permission notes
+- firebase_verification.txt: local Firebase and notification verification
+- nouri-upload-key.jks: Android upload key
+- key.properties: signing configuration
+- key_info.txt: signing credentials and certificate fingerprints
+- sha256_checksums.txt: SHA-256 checksums for release files
+
+The release APK and AAB are built from the same Nouri 1.0.0+1 source and signed with the included upload key.

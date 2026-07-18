@@ -1,0 +1,19 @@
+NOURI - ANDROID RELEASE KEY
+
+Keystore file: nouri-upload-key.jks
+Store type: JKS
+Alias: nouri
+Store password: Nouri26!Store
+Key password: Nouri26!Key
+Owner: CN=Nouri, OU=Mobile Apps, O=Nouri Studio, L=Chisinau, ST=Chisinau, C=MD
+Created: 2026-07-18
+Valid until: 2053-12-03
+
+SHA-1:
+5F:13:72:BD:3A:1D:F1:73:F0:95:97:05:29:1B:45:80:91:3B:81:C5
+
+SHA-256:
+E9:D6:8A:FE:B9:EA:F1:E8:AA:B1:33:E8:7B:CB:FB:11:B5:8D:83:2E:D1:25:B9:3D:20:9D:9A:30:AA:C5:F0:CE
+
+Important:
+Keep this keystore and both passwords private and backed up. Future Google Play updates for this application must use the same upload key unless the key is formally reset in Play Console.

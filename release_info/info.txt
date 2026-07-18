@@ -1,0 +1,29 @@
+App name: Nouri
+Package name: com.nouri.mealplanner
+Version: 1.0.0 (1)
+Category: Food & Drink
+Tags: meal planner, recipes, grocery list, pantry, nutrition, weekly planning
+Type: Free Android application
+
+Short description:
+Plan meals, organize groceries, and build a calmer weekly food routine.
+
+Long description:
+Nouri is a polished meal planning companion built around a simple idea: plan well and eat with ease. Create a personal profile, choose a daily calorie target and eating style, then shape breakfast, lunch, dinner, and snacks across the week.
+
+Turn planned recipes into a practical shopping list in one tap, check items while shopping, and keep a separate pantry list for ingredients already at home. Weekly insights are calculated only from meals and items you add, so the app starts clean and stays personal.
+
+Nouri works offline for core planning and saves your profile, theme, tutorial progress, meal plan, shopping list, pantry, and activity on the device. Optional Firebase services provide app analytics and push notifications.
+
+Main features:
+- Animated splash, onboarding, theme selection, profile setup, and tutorial
+- Light and dark themes
+- Weekly breakfast, lunch, dinner, and snack planning
+- Searchable recipe library with preparation time and calories
+- Shopping list generated from planned recipes
+- Manual shopping and pantry items
+- Weekly planning and completion insights
+- Push notification support and an in-app notification test
+- Firebase Analytics integration
+- Local persistent storage and offline core functionality
+- Responsive phone and tablet layouts
