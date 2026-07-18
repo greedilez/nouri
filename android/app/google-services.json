@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765056100251",
+    "project_id": "nouri-7ad63",
+    "storage_bucket": "nouri-7ad63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765056100251:android:c6072d1cc358c04a66233e",
+        "android_client_info": {
+          "package_name": "com.nouri.mealplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASsBtZVdjpONf9YJAfrFjqNsnjI4vjEp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
